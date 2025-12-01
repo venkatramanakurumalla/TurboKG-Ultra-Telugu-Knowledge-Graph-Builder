@@ -1,0 +1,7 @@
+stanza>=1.5.0
+numpy>=1.21.0
+psutil>=5.9.0
+neo4j>=5.0.0
+sentence-transformers>=2.2.0
+faiss-cpu>=1.7.0
+prometheus_client>=0.17.0
